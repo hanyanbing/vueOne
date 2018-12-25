@@ -30,5 +30,22 @@
 </script>
 
 <style scoped>
-  
+  h1{
+    height: 100px;
+  }
+  .tab {
+    display: flex;
+    width: 100%;
+    height: 38px;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+    line-height: 40px;
+  }
+  .tab li{
+    flex:1;
+    text-align: center;
+  }
+  .tab li a{
+    display: block;
+  }
 </style>
