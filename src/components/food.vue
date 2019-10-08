@@ -1,6 +1,6 @@
 <template>
   <div>
-    商品：<input v-model="msg" type="text">
+    商品1：<input v-model="msg" type="text">
   </div>
 </template>
 
